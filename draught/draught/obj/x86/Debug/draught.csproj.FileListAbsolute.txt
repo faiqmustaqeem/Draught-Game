@@ -1,0 +1,18 @@
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\bin\Debug\draught.exe
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\bin\Debug\draught.pdb
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\draught.Form1.resources
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\draught.Properties.Resources.resources
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\draught.exe
+C:\Users\faiq\documents\visual studio 2010\Projects\draught\draught\obj\x86\Debug\draught.pdb
+D:\draught\draught\draught\obj\x86\Debug\draught.exe
+D:\draught\draught\draught\obj\x86\Debug\draught.pdb
+D:\Projects\draught\draught\draught\obj\x86\Debug\draught.exe
+D:\Projects\draught\draught\draught\obj\x86\Debug\draught.pdb
+D:\Projects\draught\draught\draught\bin\Debug\draught.exe
+D:\Projects\draught\draught\draught\bin\Debug\draught.pdb
+D:\Projects\draught\draught\draught\obj\x86\Debug\draught.Form1.resources
+D:\Projects\draught\draught\draught\obj\x86\Debug\draught.Properties.Resources.resources
+D:\Projects\draught\draught\draught\obj\x86\Debug\draught.csproj.GenerateResource.Cache
